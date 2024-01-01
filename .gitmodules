@@ -1,4 +1,4 @@
 [submodule "ext/witsml"]
 	path = ext/witsml
-	url = ../witsml
+	url = https://github.com/pds-technology/witsml
 	branch = master
